@@ -12,7 +12,7 @@
 #### Career
 
 - Computer Vision Team @ [VTouch](https://www.vtouch.io/ko) - 손 오동작 필터링 연구/개발
-- Face Analysis Lab @ [Alchera](https://alcherainc.com/) - 
+- Face Analysis Lab @ [Alchera](https://alcherainc.com/)
 
 <!--
 **jeongmin-seo/jeongmin-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
